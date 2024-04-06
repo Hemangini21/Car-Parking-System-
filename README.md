@@ -1,5 +1,5 @@
 # Car-Parking-System-
-#Designed and implemented a Car Parking System using Database Management System (DBMS) technologies.
+Designed and implemented a Car Parking System using Database Management System (DBMS) technologies.
 Created an optimized database schema to efficiently manage parking spot allocation, vehicle registration, and transaction processing.
 Developed SQL queries and database triggers to automate processes such as spot allocation and fee calculation.
 Ensured data integrity and reliability through robust validation checks and constraints within the database.
